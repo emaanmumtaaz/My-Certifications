@@ -15,6 +15,8 @@ A collection of my completed and ongoing certifications.
 Data Analytics, Business Intelligence & Python skills development for finance career.
 
 ## 📫 Contact
+## 📫 Contact
 
-🔗 GitHub: https://github.com/emaanmumtaaz  
-🔗 LinkedIn: https://www.linkedin.com/in/emaan-mumtaz-b270b63bb
+🔗 GitHub: emaanmumtaaz  
+🔗 LinkedIn: emaan-mumtaz-b270b63bb  
+📧 Email: emaanmumtaaz@gmail.com
