@@ -17,6 +17,9 @@ Data Analytics, Business Intelligence & Python skills development for finance ca
 ## 📫 Contact
 ## 📫 Contact
 
-🔗 GitHub: emaanmumtaaz  
-🔗 LinkedIn: emaan-mumtaz-b270b63bb  
+ ## 📫 Contact
+
+🔗 GitHub: [GitHub Portfolio](https://github.com/emaanmumtaaz)  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/emaan-mumtaz-b270b63bb)  
+📧 Email: emaan.mumtaaz@gmail.com 
 📧 Email: emaanmumtaaz@gmail.com
