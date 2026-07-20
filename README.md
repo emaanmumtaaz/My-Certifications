@@ -6,9 +6,6 @@ A collection of my completed and ongoing certifications.
 
 - 💻 Digital Literacy – [DigiSkills.pk](https://www.digiskills.pk/)  
 - ✍️ Creative Writing – [DigiSkills.pk](https://www.digiskills.pk/) 
-
-## ⏳ In Progress
-
 - 📊 Data Analytics & Business Intelligence – [DigiSkills.pk](https://www.digiskills.pk/)  
 - 🐍 Python Essentials 1 – [Cisco Networking Academy](https://www.netacad.com/)
 ## Goal
@@ -18,5 +15,5 @@ Data Analytics, Business Intelligence & Python skills development for finance ca
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/emaan-mumtaz-b270b63bb)  
 📧 Email: emaan.mumtaaz@gmail.com 
 
-🎯 Aspiring Data Analyst & BI enthusiast skilled in Excel, Power BI, and Python for data analysis and visualization.
+🎯 Data Analyst & BI enthusiast skilled in Excel, Power BI, and Python for data analysis and visualization.
 
